@@ -16,7 +16,7 @@ int pointer;
 u16 buffer[100][2];
 int main(void)
 {  	
-	u8 x,y,i;
+	//u8 x,y,i;
 	RCC_INIT();
 	NVIC_INIT();
 	GPIO_INIT();
