@@ -1,0 +1,41 @@
+/*
+** File  : xxxx.x 
+** Desc  : All xxx... 
+** Author: xxxxxxxx
+** Data  : xx/xx/xxxx 
+*/
+
+#define AAAA_BBB xxx
+
+tpyedef enmu{
+
+} _RxxxTxxx
+
+
+typedef union{
+
+} _RxxxTxxx
+
+
+typedef struct {
+  int/char/float/double StructVariable1;
+  ...
+  ...
+  ...
+  ...
+} __RxxxTxxx;
+
+
+/* function : 
+** parameter:
+** return   : 
+** priority : */
+
+
+
+int/char/float/double GlobalVariableOne;
+void what_function_one( void ParameterOne, void ParameterTwo ....... )
+{
+  int/char/float/double temporary_variable;
+    
+}
