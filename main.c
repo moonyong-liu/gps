@@ -5,6 +5,8 @@
 //unsigned char *top;
 //unsigned char *temp;
 // testssststst
+// what a fu
+
 float latitude;
 extern unsigned char Buffer_Remessage[100];
 unsigned char Flag_one_message;
